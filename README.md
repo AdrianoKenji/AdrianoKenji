@@ -1,4 +1,4 @@
-### Oi! Meu nome é Kenji, desenvolvedor FullStack 🐬
+### Oi! Meu nome é Kenji 🐬
 
 <div align="center">
   <a href="https://github.com/AdrianoKenji">
